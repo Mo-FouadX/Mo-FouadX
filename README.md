@@ -1,19 +1,13 @@
 # Hi, I'm Mohamed 👋
 
-**Learning to build software with AI, in public.**
+Learning to build software with AI, step by step, in public.
 
-## 🛠️ Skills
-- HTML, CSS, JavaScript
-- Git & GitHub
+## 🛠️ Currently learning
+- HTML & CSS
+- JavaScript basics
 
-## 🚀 Projects
-- Exam Review Page (HTML, CSS)
-- Finals Countdown (JavaScript)
-- To-Do List (In progress)
-
-## 📓 Learning
-- Currently learning web development basics
-- Building small projects to understand concepts
+## 📓 What this is
+A place to document my learning journey as I go.
 
 ---
-*Just starting my coding journey!*
+*Just getting started.*
